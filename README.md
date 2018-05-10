@@ -15,11 +15,13 @@ https://www.linkedin.com/groups/7403611/profile
 ## Blogs
 
 https://databricks.com/blog/2018/03/22/azure-databricks-industry-leading-analytics-platform-powered-by-apache-spark.html
+
 https://databricks.com/blog/2017/11/15/a-technical-overview-of-azure-databricks.html
 
 ## Certifications and Training
 
 https://databricks.com/training-overview/certified-spark-developer
+
 https://databricks.com/training-overview/instructor-led-training/courses/apache-spark-programming
 
 ## Sizing Components
@@ -35,8 +37,8 @@ https://github.com/vaquarkhan/vaquarkhan/wiki/How-to-calculate-node-and-executor
 
 Premium tier is suggested for most customers.
 
-Data Analytics: Always-on autoscaled cluster for analytics and training.
-Data Engineering: Always-on manually-scaled cluster for production jobs.
+Data Analytics: Always-on autoscaled cluster for analytics and training.  
+Data Engineering: Always-on manually-scaled cluster for production jobs.  
 
 ## Components 
 
