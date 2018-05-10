@@ -1,5 +1,7 @@
 # Azure Databricks
 
+Azure Databricks is a virtual appliance, a set of Virtual Machines running in Azure.
+
 Azure Databricks Templates, notes and resources around Databricks and Spark 
 
 https://docs.microsoft.com/en-us/azure/azure-databricks/
@@ -12,17 +14,29 @@ https://spark-packages.org
 
 https://www.linkedin.com/groups/7403611/profile
 
-## Blogs
+https://twitter.com/databricks?lang=en
+
+https://github.com/awesome-spark  
+
+
+
+## Blogs and Articles
 
 https://databricks.com/blog/2018/03/22/azure-databricks-industry-leading-analytics-platform-powered-by-apache-spark.html
 
 https://databricks.com/blog/2017/11/15/a-technical-overview-of-azure-databricks.html
+
+https://www.infoworld.com/article/3238526/spark/azure-databricks-fast-analytics-in-the-cloud-with-apache-spark.html?utm_content=64141053&utm_medium=social&utm_source=twitter
+
 
 ## Certifications and Training
 
 https://databricks.com/training-overview/certified-spark-developer
 
 https://databricks.com/training-overview/instructor-led-training/courses/apache-spark-programming
+
+https://docs.databricks.com/spark/latest/training/index.html
+
 
 ## Sizing Components
 
@@ -86,6 +100,10 @@ https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html
 
 https://docs.databricks.com/user-guide/databricks-io-cache.html
 
+### Databricks and Hive
+
+https://docs.databricks.com/user-guide/advanced/external-hive-metastore.html
+
 ### Business Intelligence Tools
 
 https://docs.databricks.com/user-guide/bi/index.html
@@ -97,10 +115,22 @@ https://docs.databricks.com/user-guide/security.html
 ### FAQ and Best Practices
 
 https://docs.databricks.com/user-guide/faq/index.html
+ 
+### Structured Streaming
 
-### Educational Materials
+https://docs.databricks.com/spark/latest/structured-streaming/index.html  
 
-https://docs.databricks.com/spark/latest/training/index.html
+### Azure Event Hubs
+
+https://docs.databricks.com/spark/latest/structured-streaming/streaming-event-hubs.html
+
+### Kafka
+
+https://docs.azuredatabricks.net/spark/latest/structured-streaming/kafka.html
+
+### Databricks Delta (ACID Transactions on DBFS)
+
+https://docs.databricks.com/delta/index.html  
 
 
 ## Local ARM Deployment Visualizer
